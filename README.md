@@ -8,4 +8,4 @@ The code will open the webcam, capture the frames, and then display them in a wi
 ### Running the app
     python webcam.py
 
-press the escape key (esc) to close the window
+press the escape key (esc) to close the window.
